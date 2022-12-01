@@ -15,7 +15,7 @@ Not applicable at the moment, will be released at a later date.
 ---
 
 ## Usage
-<img src="Images/passive_income.gif" alt="passive investing gif" width="700" />
+<img src="images/passive_income.gif" alt="passive investing gif" width="700" />
 
 ---
 
