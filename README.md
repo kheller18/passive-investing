@@ -10,11 +10,11 @@ Jupyter, Pandas, Numpy, Pathlib, hvPlot, SQL, datetime, Bokeh, Matplotlib
 ---
 
 ## Installation Guide
-  pip install pandas
-  pip install hvplot
-  pip install jupyterlab
-  pip install seaborn
-  conda install -c pyviz hvplot
+  pip install pandas<br />
+  pip install hvplot<br />
+  pip install jupyterlab<br />
+  pip install seaborn<br />
+  conda install -c pyviz hvplot<br />
 
 ---
 
